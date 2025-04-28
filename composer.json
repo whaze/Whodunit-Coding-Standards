@@ -1,5 +1,5 @@
 {
-	"name": "whodunit/coding-standards",
+	"name": "whaze/whodunit-coding-standards",
 	"type": "phpcodesniffer-standard",
 	"description": "PHP_CodeSniffer rules (sniffs) to enforce Whodunit coding conventions, based on WordPress Coding Standards",
 	"keywords": [
